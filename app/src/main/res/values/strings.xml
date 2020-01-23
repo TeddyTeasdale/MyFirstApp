@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="Show_Password_Checkbox">Show_Password_Checkbox</string>
+</resources>
